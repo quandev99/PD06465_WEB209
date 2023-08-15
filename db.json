@@ -1,0 +1,19 @@
+{
+  "products": [
+    {
+      "name": "Nguyễn Viết Quân dsadsasd",
+      "price": "1240000",
+      "quantity": "1",
+      "description": "Cuốn sách viết về c",
+      "id": 2,
+      "category": "NXB 1"
+    },
+    {
+      "name": "admin@local.com",
+      "price": "1240000",
+      "quantity": "123213",
+      "description": "asdadssa",
+      "id": 3
+    }
+  ]
+}
